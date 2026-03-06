@@ -13,6 +13,6 @@ app.get("/666", (req, res)=>{
     res.send("easter egg dos adm, se precisar to aqui")
 })
 
-app.listen(3001, ()=>{
+app.listen(3006, ()=>{
     console.log("VICTOR, seu servidor está ligado!")
 })
